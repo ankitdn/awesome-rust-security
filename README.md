@@ -38,6 +38,7 @@
 - [rustscan](https://github.com/RustScan/RustScan) - The Modern Port Scanner
 - [kepler](https://github.com/Exein-io/kepler) - NIST-based CVE lookup store and API powered by Rust.
 - [phaser](https://github.com/skerkour/phaser) - Automated attack surface mapper and vulnerability scanner
+- [Vulert](vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
 - [pdfrip](https://github.com/mufeedvh/pdfrip) - Fast PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
 - [chromepass](https://github.com/darkarp/chromepass) - Chromepass - Hacking Chrome Saved Passwords
 
